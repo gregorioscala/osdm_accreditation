@@ -38,6 +38,7 @@
                     "origin": "urn:uic:stn:8308409",
                     "destination": "urn:uic:stn:8301700",
                     "startDatetime": "%TRIP_DATE%T13:00:00",
+		    "endDatetime": "%TRIP_DATE%",
                     "productCategoryRef": "",
                     "productCategoryName": "",
                     "productCategoryShortName": "",
@@ -53,6 +54,7 @@
                     "origin": "urn:uic:stn:8308409",
                     "destination": "urn:uic:stn:8301700",
                     "startDatetime": "%TRIP_DATE%T13:00:00",
+		    "endDatetime": "%TRIP_DATE%",
                     "vehicleNumber": "1959",
                     "operatorCode": "urn:uic:rics:1"
                 }
