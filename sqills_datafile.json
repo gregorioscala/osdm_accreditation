@@ -42,7 +42,7 @@
                     "productCategoryRef": "",
                     "productCategoryName": "",
                     "productCategoryShortName": "",
-                    "vehicleNumber": "1959",
+                    "vehicleNumber": "9634",
                     "operatorCode": "urn:uic:rics:1"
                 }
         },
@@ -55,7 +55,7 @@
                     "destination": "urn:uic:stn:8301700",
                     "startDatetime": "%TRIP_DATE%T13:00:00",
 		    "endDatetime": "%TRIP_DATE%",
-                    "vehicleNumber": "1959",
+                    "vehicleNumber": "9634",
                     "operatorCode": "urn:uic:rics:1"
                 }
             ]
