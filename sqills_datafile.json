@@ -37,7 +37,7 @@
                 {
                     "origin": "urn:uic:stn:8308409",
                     "destination": "urn:uic:stn:8301700",
-                    "startDatetime": "%TRIP_DATE%T13:01:01",
+                    "startDatetime": "%TRIP_DATE%T12:00:00+01:00",
 		    "endDatetime": "%TRIP_DATE%",
                     "productCategoryRef": "",
                     "productCategoryName": "",
@@ -53,7 +53,7 @@
                 {
                     "origin": "urn:uic:stn:8308409",
                     "destination": "urn:uic:stn:8301700",
-                    "startDatetime": "%TRIP_DATE%T13:01:01",
+                    "startDatetime": "%TRIP_DATE%T12:00:00+01:00",
 		    "endDatetime": "%TRIP_DATE%",
                     "vehicleNumber": "9634",
                     "operatorCode": "urn:uic:rics:1"
