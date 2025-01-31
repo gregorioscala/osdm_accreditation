@@ -70,7 +70,8 @@
                     "dateOfBirth": "1999-01-01",
 		    "detail": {
 			    "firstname": "Greg",
-			    "lastname": "Scala",
+			    "lastname": "Scala"
+		    },
 					"patchFirstName": "John",
 					"patchLastName": "Doe",
                     "patchDateOfBirth": "1999-01-02",
