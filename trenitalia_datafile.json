@@ -7,7 +7,7 @@
             "desiredType": "ADMISSION",
             "currency": "EUR",
             "refundOverruleCode": "PAYMENT_FAILURE",
-			"refundDate": null,
+	    "refundDate": null,
             "tripRequirementId": 1,
             "passengersListId": 1,
             "desiredFlexibility": "NON_FLEXIBLE"
